@@ -1,0 +1,53 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 00:49:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2023-01-21 00:49:18 94.73.170.75 GET / - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 200 0 0 54528 198 4206
+2023-01-21 00:49:30 94.73.170.75 GET /wp-includes/js/jquery/jquery.js - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 229 2943
+2023-01-21 00:49:34 94.73.170.75 GET /administrator/help/en-GB/toc.json - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 231 3077
+2023-01-21 00:49:35 94.73.170.75 GET /administrator/language/en-GB/install.xml - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 238 600
+2023-01-21 00:49:35 94.73.170.75 GET /plugins/system/debug/debug.xml - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 228 306
+2023-01-21 00:49:42 94.73.170.75 GET /administrator/ - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 212 306
+2023-01-21 00:49:42 94.73.170.75 GET /misc/ajax.js - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 210 304
+2023-01-21 00:49:46 94.73.170.75 GET / - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 200 0 0 54528 198 2744
+2023-01-21 00:49:48 94.73.170.75 GET /admin/view/javascript/common.js - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 229 308
+2023-01-21 00:49:49 94.73.170.75 GET /admin/includes/general.js - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 223 595
+2023-01-21 00:49:50 94.73.170.75 GET /images/editor/separator.gif - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 225 597
+2023-01-21 00:49:50 94.73.170.75 GET /js/header-rollup-554.js - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 221 304
+2023-01-21 00:49:53 94.73.170.75 GET /vendor/phpunit/phpunit/build.xml - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_8;+en-us)+AppleWebKit/534.50+(KHTML,+like+Gecko)+Version/5.1+Safari/534.50 - krsstand.com.tr 404 0 2 12771 277 1615
+2023-01-21 00:49:55 94.73.170.75 GET /fckeditor/editor/filemanager/connectors/php/upload.php Type=Media 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 263 1049
+2023-01-21 00:49:56 94.73.170.75 GET /.env - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/28.0 - krsstand.com.tr 404 0 2 12771 202 1284
+2023-01-21 00:49:59 94.73.170.75 GET / - 80 - 107.181.164.242 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:28.0)+Gecko/20100101+Firefox/72.0 - krsstand.com.tr 200 0 0 54528 198 1186
+2023-01-21 00:50:00 94.73.170.75 GET /wp-admin/setup-config.php step=0 80 - 107.181.164.242 HTTP/1.1 python-requests/2.23.0 - krsstand.com.tr 404 0 2 12771 178 597
+2023-01-21 00:50:01 94.73.170.75 GET /wordpress/wp-admin/setup-config.php step=0 80 - 107.181.164.242 HTTP/1.1 python-requests/2.23.0 - krsstand.com.tr 404 0 2 12771 188 595
+2023-01-21 00:50:02 94.73.170.75 GET /wp/wp-admin/setup-config.php step=0 80 - 107.181.164.242 HTTP/1.1 python-requests/2.23.0 - krsstand.com.tr 404 0 2 12771 181 941
+2023-01-21 00:50:03 94.73.170.75 GET /blog/wp-admin/setup-config.php step=0 80 - 107.181.164.242 HTTP/1.1 python-requests/2.23.0 - krsstand.com.tr 404 0 2 12771 183 303
+2023-01-21 00:50:05 94.73.170.75 GET /test/wp-admin/setup-config.php step=0 80 - 107.181.164.242 HTTP/1.1 python-requests/2.23.0 - krsstand.com.tr 404 0 2 12771 183 303
+2023-01-21 00:50:06 94.73.170.75 GET /site/wp-admin/setup-config.php step=0 80 - 107.181.164.242 HTTP/1.1 python-requests/2.23.0 - krsstand.com.tr 404 0 2 12771 183 600
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 04:13:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2023-01-21 04:13:31 94.73.170.75 HEAD / - 80 - 64.43.118.160 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 345 257 405
+2023-01-21 04:13:31 94.73.170.75 GET / - 80 - 144.168.218.107 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 7104 256 577
+2023-01-21 04:13:32 94.73.170.75 GET /img/favicon.png - 80 - 193.34.74.228 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 404 0 2 12790 271 260
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 05:01:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2023-01-21 05:01:43 94.73.170.75 HEAD / - 80 - 191.102.187.131 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 345 257 426
+2023-01-21 05:01:44 94.73.170.75 GET / - 80 - 95.164.158.203 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 7104 256 192
+2023-01-21 05:01:44 94.73.170.75 GET /img/favicon.png - 80 - 64.43.116.23 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 404 0 2 12790 271 128
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 05:46:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2023-01-21 05:46:17 94.73.170.75 HEAD / - 80 - 209.127.99.150 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 345 257 437
+2023-01-21 05:46:18 94.73.170.75 GET / - 80 - 104.144.151.20 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 7104 256 309
+2023-01-21 05:46:18 94.73.170.75 GET /img/favicon.png - 80 - 64.43.116.133 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 404 0 2 12790 271 169
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 06:36:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2023-01-21 06:36:17 94.73.170.75 HEAD / - 80 - 64.66.220.223 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/537.36 - krsstand.com.tr:80 200 0 0 345 257 443
+2023-01-21 06:36:19 94.73.170.75 GET / - 80 - 221.150.169.122 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/107.0.0.0+Safari/896CB9 - krsstand.com.tr:80 200 0 0 7104 256 768
